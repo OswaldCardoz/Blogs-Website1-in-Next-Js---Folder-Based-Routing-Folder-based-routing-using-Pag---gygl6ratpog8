@@ -1,5 +1,5 @@
 {
-  "name": "blog-website--boilerplate",
+  "name": "stopwatch",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,11 +10,11 @@
     "test": "start-server-and-test dev http://localhost:3000 cy:run"
   },
   "dependencies": {
-    "cypress": "^12.14.0",
-    "mochawesome": "^7.1.3",
-    "next": "13.4.10",
+    "next": "13.4.19",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "start-server-and-test": "^2.0.0"
+    "start-server-and-test": "^2.0.0",
+    "cypress": "^12.14.0",
+    "mochawesome": "^7.1.3"
   }
 }
